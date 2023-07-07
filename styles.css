@@ -308,3 +308,10 @@ h2 {
     background: radial-gradient(at top left, #ebcbf7 0%, #f9e9ec 20%, #fdfcf9 30%);
 }
 
+.decorated__text {
+    text-decoration: underline;
+    text-decoration-color: var(--color-primary);
+    text-decoration-thickness: 4px;
+    text-underline-offset: 6px;
+}
+
