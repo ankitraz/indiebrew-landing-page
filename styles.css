@@ -533,6 +533,20 @@ h3 {
     padding-top: 3rem;
   }
 
+  .icon-1::before{
+    content: "🎈";
+  }
+
+  .icon-2::before{
+    content: "🗞️";
+  }
+
+  .icon-3::before{
+    content: "💡";
+  }
+
+
+
   @media screen and (min-width: 768px) {
     .signup__content{
         padding: 6rem;
